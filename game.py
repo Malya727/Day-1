@@ -6,7 +6,7 @@ import random
 q=0
 print("********** Welcome to my game **********")
 while(q==0):
-    n=random.randint(1,6)
+    n=random.randint(1,9)
     at=1
     while(True):
         inp=int(input("Enter guessed Number :"))
