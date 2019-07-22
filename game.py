@@ -1,4 +1,5 @@
 ''' program for dice game '''
+''' by malya '''
 
 import random
 
